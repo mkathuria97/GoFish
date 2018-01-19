@@ -1,6 +1,3 @@
-/**
- * Created by mayankkathuria on 3/6/17.
- */
 public class NaiveStrategy implements PlayerStrategy{
 
     private int currentPlayerNumber;
