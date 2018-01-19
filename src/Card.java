@@ -1,6 +1,3 @@
-/**
- * Created by mayankkathuria on 3/6/17.
- */
 public class Card {
     enum Suit {SPADES, HEARTS, DIAMONDS, CLUBS};
     public static final int NUM_SUITS = 4;
