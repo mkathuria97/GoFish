@@ -1,8 +1,5 @@
 import java.util.ArrayList;
 
-/**
- * Created by mayankkathuria on 3/6/17.
- */
 public class SmartStrategy implements  PlayerStrategy {
     private int currentPlayerNumber;
     private int totalNumberOfPlayers;
