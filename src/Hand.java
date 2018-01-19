@@ -1,6 +1,3 @@
-/**
- * Created by mayankkathuria on 3/6/17.
- */
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
