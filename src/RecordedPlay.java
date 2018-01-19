@@ -1,6 +1,4 @@
-/**
- * Created by mayankkathuria on 3/6/17.
- */
+
 import java.util.Collections;
 import java.util.List;
 
