@@ -5,9 +5,6 @@ import java.util.List;
 /**
  * Representation of a hand of cards.
  *
- * DON'T CHANGE THIS CLASS, YOU CAN DERIVE FROM THIS CLASS IF YOU WANT TO EXTEND IT
- * FOR USE IN THE GAME IMPLEMENTATION, BUT NOT
- *
  */
 public class Hand implements Iterable<Card> {
 
